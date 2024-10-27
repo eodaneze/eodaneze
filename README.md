@@ -1,16 +1,16 @@
 
 - 👋 Hi,✨✨I'm Daniel Ezeali
-- 👀 I’m A MERN stack developer ...
+- 👀 I’m A Backend Software Engineer. 
 - 🌱 I use RESTFUL API'S To develop Backend Application ...
-- 💞️ Technologies: HTML, CSS, BOOTSTRAP, TAILWIND, SCSS, REACT JS, NEXT JS, TYPESCRIPT, NODE JS, EXPRESS JS, PHP, Laravel, MYSQL, MONGODB ...
+- 💞️ Technologies: REACT JS, TYPESCRIPT, NESTJS, NODE JS, EXPRESS JS, PHP, Laravel, MYSQL, MONGODB. 
 - 📫 I am here to code the world ...
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eodaneze&label=Profile%20views&color=0e75b6&style=flat" alt="eodaneze" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **React, Node js, PHP,**
+- 💬 Ask me about **NestJs, Node js, PHP,**
 
 - 📫 How to reach me **ezealidaniel29@gmail.com**
 
