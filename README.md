@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eodaneze&label=Profile%20views&color=0e75b6&style=flat" alt="eodaneze" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# & Rust**
 
 - 💬 Ask me about **NestJs, Node js, PHP,**
 
